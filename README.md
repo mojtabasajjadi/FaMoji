@@ -4,5 +4,5 @@ A dataset of Farsi (Persian) meaning of emojis for sentiment analysis and tasks 
 
 <h2>Intro.</h2>
 A dataset of Farsi (Persian) meanings of the most used emojis on Twitter. <br>
-Application: sentiment analysis, semantic similarity measurement, pre-processing of informal texts, and wherever there is a need to replace emoji to understand the meaning of the context.
+<b>Applications:</b> sentiment analysis, semantic similarity measurement, pre-processing of informal texts, and wherever there is a need to replace emoji to understand the meaning of the context.
 
