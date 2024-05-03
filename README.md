@@ -1,5 +1,5 @@
 # FaMoji
-A dataset of Farsi (Persian) meanings of the most popular emojis for sentiment analysis and tasks of measuring semantic similarity. <br>
+A dataset of Farsi (Persian) meanings of the most popular (in social media) emojis for sentiment analysis and tasks of measuring semantic similarity. <br>
 <br>
 
 <h2>Intro.</h2>
